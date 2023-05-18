@@ -6,7 +6,6 @@ interface Connects_walletProps {}
 const Connects_wallet: FC<Connects_walletProps> = ({}) => {
   return (
     <>
-      <button>connects</button>
       <Web3Button />
     </>
   )
